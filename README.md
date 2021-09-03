@@ -10,4 +10,5 @@ Please try to explain the error as accurately as possible, thank you.
 - What happens.
 - What should actually happen.
 <br />
+
 Click [here](https://github.com/xyna-dev/issues/issues/new) to open a new issue. <br />
